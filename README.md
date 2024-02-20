@@ -31,3 +31,4 @@ The implementation of Waypoint Sequencing involved several key steps:
 - **Optimization Algorithms:** Implementing advanced optimization algorithms to further enhance route sequencing and courier utilization.
 
 ## Contributors
+@marcusYQL
